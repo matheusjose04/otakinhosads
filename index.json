@@ -11,9 +11,9 @@
         "name": "Blackout Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
+          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/blackoutcomics.png",
-          "jarUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
+          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "13",
@@ -32,9 +32,9 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.argoscomics-v1.6.59.apk",
+          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/argoscomics-v1.6.59/tachiyomi-pt.argoscomics-v1.6.59.apk",
           "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/argoscomics.png",
-          "jarUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.argoscomics-v1.6.59.jar"
+          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/argoscomics-v1.6.59/tachiyomi-pt.argoscomics-v1.6.59.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "59",
