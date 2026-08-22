@@ -8,6 +8,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "Blackout Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+        "resources": {
+          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/blackoutcomics.png",
+          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "13",
+        "versionName": "1.6.13",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4905303791571172293",
+            "name": "Blackout Comics",
+            "language": "pt-BR",
+            "homeUrl": "https://blackoutcomics.com"
+          }
+        ]
+      },
+      {
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
@@ -29,23 +50,23 @@
         ]
       },
       {
-        "name": "Blackout Comics",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+        "name": "Ink Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.inkscan",
         "resources": {
-          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
-          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/blackoutcomics.png",
-          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
+          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/inkscan-v1.4.4/tachiyomi-pt.inkscan-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/inkscan.png",
+          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/inkscan-v1.4.4/tachiyomi-pt.inkscan-v1.4.4.jar"
         },
-        "extensionLib": "1.6",
-        "versionCode": "13",
-        "versionName": "1.6.13",
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4905303791571172293",
-            "name": "Blackout Comics",
+            "id": "2060124440831877790",
+            "name": "Ink Scan",
             "language": "pt-BR",
-            "homeUrl": "https://blackoutcomics.com"
+            "homeUrl": "https://inkscann.live"
           }
         ]
       }
