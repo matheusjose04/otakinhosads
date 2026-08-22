@@ -1,6 +1,6 @@
 {
-  "name": "Blackout Comics (fix)",
-  "badgeLabel": "FIX",
+  "name": "otakinhosads",
+  "badgeLabel": "OTK",
   "signingKey": "71bc24d4062c655cf9d5ad214ba7417aecbbb35add8d14ca6369836621622096",
   "contact": {
     "website": "https://github.com/matheusjose04"
@@ -11,9 +11,9 @@
         "name": "Blackout Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/matheusjose04/blackoutcomics-repo/main/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
-          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/blackoutcomics-repo/main/icon.png",
-          "jarUrl": "https://raw.githubusercontent.com/matheusjose04/blackoutcomics-repo/main/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
+          "apkUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/blackoutcomics.png",
+          "jarUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "13",
@@ -32,9 +32,9 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/matheusjose04/blackoutcomics-repo/main/tachiyomi-pt.argoscomics-v1.6.59.apk",
-          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/blackoutcomics-repo/main/icon-argos.png",
-          "jarUrl": "https://raw.githubusercontent.com/matheusjose04/blackoutcomics-repo/main/tachiyomi-pt.argoscomics-v1.6.59.jar"
+          "apkUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.argoscomics-v1.6.59.apk",
+          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/argoscomics.png",
+          "jarUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/tachiyomi-pt.argoscomics-v1.6.59.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "59",
