@@ -8,27 +8,6 @@
   "extensionList": {
     "extensions": [
       {
-        "name": "Blackout Comics",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
-        "resources": {
-          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
-          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/blackoutcomics.png",
-          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "13",
-        "versionName": "1.6.13",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "4905303791571172293",
-            "name": "Blackout Comics",
-            "language": "pt-BR",
-            "homeUrl": "https://blackoutcomics.com"
-          }
-        ]
-      },
-      {
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
@@ -46,6 +25,27 @@
             "name": "Argos Comics",
             "language": "pt-BR",
             "homeUrl": "https://aniargos.com"
+          }
+        ]
+      },
+      {
+        "name": "Blackout Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+        "resources": {
+          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/blackoutcomics.png",
+          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/blackoutcomics-v1.6.13/tachiyomi-pt.blackoutcomics-v1.6.13.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "13",
+        "versionName": "1.6.13",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4905303791571172293",
+            "name": "Blackout Comics",
+            "language": "pt-BR",
+            "homeUrl": "https://blackoutcomics.com"
           }
         ]
       },
