@@ -1,6 +1,10 @@
 {
   "name": "Blackout Comics (fix)",
   "badgeLabel": "FIX",
+  "signingKey": "71bc24d4062c655cf9d5ad214ba7417aecbbb35add8d14ca6369836621622096",
+  "contact": {
+    "website": "https://github.com/matheusjose04"
+  },
   "extensionList": {
     "extensions": [
       {
