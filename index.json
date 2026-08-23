@@ -53,13 +53,13 @@
         "name": "Ink Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.inkscan",
         "resources": {
-          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/inkscan-v1.4.6/tachiyomi-pt.inkscan-v1.4.6.apk",
+          "apkUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/inkscan-v1.4.7/tachiyomi-pt.inkscan-v1.4.7.apk",
           "iconUrl": "https://raw.githubusercontent.com/matheusjose04/otakinhosads/main/icons/inkscan.png",
-          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/inkscan-v1.4.6/tachiyomi-pt.inkscan-v1.4.6.jar"
+          "jarUrl": "https://github.com/matheusjose04/otakinhosads/releases/download/inkscan-v1.4.7/tachiyomi-pt.inkscan-v1.4.7.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "7",
+        "versionName": "1.4.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
