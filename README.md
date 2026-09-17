@@ -16,18 +16,6 @@ Este repositório existe porque algumas extensões do [Project Nox](https://gith
 
 > Para adicionar ao Mihon ou forks compatíveis, copie o link do `index.min.json` acima e adicione-o como repositório de extensões (Explorar → Extensões → Repositórios).
 
----
-
-## Extensões neste repositório
-
-| Extensão | Versão | O que foi corrigido |
-|---|---|---|
-| Blackout Comics | 1.6.13 | Tela de configurações travava com `NullPointerException` (`defaultValue` nulo) ao tentar abrir "Limpar sessão". |
-| Argos Comics | 1.6.59 | Mesmo crash de `defaultValue` nulo nos botões de login/status/logout, e a tela ficava em branco (título/resumo só eram preenchidos depois de adicionados à tela). |
-
-Ambas continuam com login próprio (Blackout Comics por e-mail/senha, Argos Comics por WebView) — só a tela de configurações estava quebrada.
-
----
 
 ## Sobre
 
